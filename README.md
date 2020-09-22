@@ -3,7 +3,9 @@
 
 > Simple Pay Roll Calculator Written in Python using tkinter library
 <hr>
-
+![Image1](https://github.com/blue-1ms/Simple-Pay-Roll-Calculator/images/image1.png)
+![Image2](https://github.com/blue-1ms/Simple-Pay-Roll-Calculator/images/image2.png)
+![Image3](https://github.com/blue-1ms/Simple-Pay-Roll-Calculator/images/image3.png)
 ## How to use? 
 - download the calculator.py file + icon and unzip it.
 - open the .py file
